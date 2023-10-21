@@ -1,0 +1,14 @@
+E:\VStudio project\qlthongtinsv\qlthongtinsv\bin\Debug\qlthongtinsv.exe.config
+E:\VStudio project\qlthongtinsv\qlthongtinsv\bin\Debug\qlthongtinsv.exe
+E:\VStudio project\qlthongtinsv\qlthongtinsv\bin\Debug\qlthongtinsv.pdb
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.csproj.AssemblyReference.cache
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.Form1.resources
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.Properties.Resources.resources
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.csproj.GenerateResource.cache
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.csproj.CoreCompileInputs.cache
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.exe
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.pdb
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.Form2.resources
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.Form3.resources
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.Form4.resources
+E:\VStudio project\qlthongtinsv\qlthongtinsv\obj\Debug\qlthongtinsv.Form5.resources
